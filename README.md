@@ -1,2 +1,2 @@
-# CSharpIntermediat
+# CSharpIntermediate
 CSharp2
