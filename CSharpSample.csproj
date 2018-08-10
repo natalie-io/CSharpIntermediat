@@ -29,7 +29,7 @@ namespace CSharp2Sample
         static void Main(string[] args)
         {
             var person = Person.Parse("George");
-            person.Introduce("Nat");
+            person.Introduce("NAT");
         }
     }
 }
